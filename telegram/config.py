@@ -1,5 +1,5 @@
 cred = "ZGU0Y2RlYWYtN2Q2Mi00NzQwLThmMDgtMTQyMDU4ZmMyNjQ1OjM1YTIyZWQ0LTNlMzItNDBjNC05YzE3LTJmMjQyZjY4NjRkYg=="
-tg_token = "7614822187:AAH8dt35FeSWA0qWzkopabMdMHGoUvai8vI"
+tg_token = "7625051131:AAEjYVgp7LEcV83qodnwMoxI9Nq_CPzSzis"
 logs_path = r"../data/query_log.txt"
 mainpath = r"AIChatBot2"
 json_file_path = "documents.json"
